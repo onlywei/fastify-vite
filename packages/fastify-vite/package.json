@@ -46,9 +46,6 @@
   },
   "version": "8.0.0-alpha.1",
   "optionalDependencies": {
-    "@fastify/react": "workspace:^",
-    "@fastify/vue": "workspace:^",
-    "@fastify/htmx": "workspace:^",
     "vite": "^5.4.8"
   },
   "dependencies": {
